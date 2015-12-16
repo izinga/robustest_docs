@@ -14,3 +14,4 @@ Run your tests flexibly on as many devices as you wish
 Get in-depth analysis on your app’s performance in both manual as well as automation test modes
 
 
+
