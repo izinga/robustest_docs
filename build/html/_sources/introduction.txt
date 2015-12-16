@@ -1,8 +1,12 @@
 Introduction
 ============
- .. image:: http://assets.amuniversal.com/f6ec59009fc3012f2fe600163e41dd5b
+ .. image:: _static/dilbert.gif
+
+.. centered::Image credit: Dilbert
 
 Hi there! Welcome to the RobusTest documentation page.
+
+While there is no denying that good documentation is a living entity and many a times we have to write documentation for things that are still under development, we sincerely hope our manager did not force the document writer to write the documentation as written by the lady in the Dilber cartoon strip. With the caveats out of the way, let us get started with one of the best app testing platforms, human beings have to offer.
 
 RobusTest is designed to be a one stop platform for everyone associated with mobile app publishing - business owners to developers and most importantly testers. The RobusTest mobile app testing platform enables testing the app on real devices throughout the application lifecycle. Here are some distinguishing features of the RobusTest platform
 
