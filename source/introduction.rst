@@ -1,7 +1,7 @@
 Introduction
 ============
 
- .. image:: _static/dilbert.gif
+ .. image:: _static/dilbert.png
 
  `Image credit-Dilbert`_
 
