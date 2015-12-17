@@ -1,10 +1,11 @@
 Introduction
 ============
-Hi there! Welcome to the RobusTest documentation
 
  .. image:: _static/dilbert.gif
 
-.. centered::Image credit Dilbert
+ `Image credit-Dilbert`_
+
+  .. _Image credit-Dilbert: http://dilbert.com/strip/1995-08-28
 
 While there is no denying that good documentation is a living entity and many a times we have to write documentation for things that are still under development, we sincerely hope our manager did not force the document writer to write the documentation as written by the lady in the Dilber cartoon strip. With the caveats out of the way, let us get started with one of the best app testing platforms, human beings have to offer.
 
