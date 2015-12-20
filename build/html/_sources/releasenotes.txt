@@ -2,8 +2,6 @@ Release Notes
 =============
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
 
-   2.0.29
-   2.0.28
+   	releases/2.0.29
+   	releases/2.0.28

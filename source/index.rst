@@ -9,8 +9,9 @@ Welcome to RobusTest Documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
+   :numbered: 1
+   :includehidden:
 
    introduction
    gettingstarted

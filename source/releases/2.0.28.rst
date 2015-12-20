@@ -1,5 +1,5 @@
-Release 2.0.28
-==============
+v2.0.28
+=======
 
 * Bug#798 - When user tries to create a test suitewith an existing test case name, then handle it in the test suitedialog
 * Bug#797 - When user tries to create a test case with an existing test case name, then handle it in the test case dialog

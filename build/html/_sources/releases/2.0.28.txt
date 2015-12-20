@@ -1,0 +1,18 @@
+v2.0.28
+=======
+
+* Bug#798 - When user tries to create a test suitewith an existing test case name, then handle it in the test suitedialog
+* Bug#797 - When user tries to create a test case with an existing test case name, then handle it in the test case dialog
+* Bug#793 - Recording: Screen rendering issue on re-recording screen
+* Bug#792 - Recording: Tooltip for object name is "Back Button"
+* Bug#799 - Test case description should not be a mandatory field
+* Bug#800 - When creating a test case, the focus should be on test case name field
+* Bug#802 - Run: Change the blue play icon to a loader in the Run page when a test case is run
+* Bug#811 - Sentry - Mukha - __main__ in getPageSource
+* Bug#810 - Sentry - Mukha - util.logAnalyser in doPerformanceAnalysis
+* Bug#809 - Sentry - Admin - TypeError: updateTime() takes exactly 2 arguments (1 given)
+* Bug#766 - #Run - Automation: Incorrect device name being displayed
+
+New Features
+
+None
