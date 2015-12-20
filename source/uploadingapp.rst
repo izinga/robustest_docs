@@ -1,15 +1,16 @@
 Uploading App
 =============
- .. image:: _static/adminserver.png
+ .. image:: _static/uploaddialog.png
 
-Once you have logged into RobusTest, you can start testing your application.
-Of course, before you get started with testing, you will need to upload your application.
+Once you have logged into RobusTest, you can start testing your application; of course, not until you have uploaded your mobile app.
 
 This can be done by clicking on the Add New App button on the landing page.
-In case you wish to just try out RobusTest you also use a sample app that we provide on the Upload Screen.
+In case you wish to just try out RobusTest you can also use a sample app that we provide on the Upload Screen.
 
 When you upload an app, you have the choice of adding to an existing project or to create a new project for your app.
 You should also provide a build description to uniquely identify your build from other builds in your project.
+
+.. image:: _static/uploaddialog1.png
 
 Apps that are part of a particular project can be accessed by everyone who is part of that project.
 Project members have the ability to test, automate and view reports for any build that is part of their project.

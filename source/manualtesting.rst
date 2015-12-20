@@ -1,6 +1,6 @@
 Manual Testing
 ==============
- .. image:: _static/adminserver.png
+ .. image:: _static/deviceselection.png
 
 Once you have selected the right build, click on the Manual tile to start executing your manual tests.
 Clicking on Manual tile, shows a list of devices that are available in the device cloud.
@@ -13,6 +13,8 @@ Upon clicking Select, the relevant device is requisitioned, cleaned up and made 
 Once the device is ready for use, the selected build is installed on the device and is ready for testing.
 
 The Manual test screen consists of three main parts
+
+.. image:: _static/manualtesting.png
 
 Device Screen: This is the screen of the device that you wish to test on. You can perform various gestures like tap, swipe, scroll with the help of mouse/trackpad and keyboard.
 Performance Graph: This section consists of three subsections - CPU, Memory and Network. Each of these sections display metrics specific to the app. Monitoring these metrics helps a tester correlate the action that has been performed on the app to the parameters being monitored e.g. how does the tap on a button affect the Memory usage or how does a call to a server affect the network usage.

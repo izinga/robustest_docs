@@ -1,14 +1,10 @@
 Recording Test Case
 ===================
- .. image:: _static/adminserver.png
+ .. image:: _static/recording.png
 
 On the project page, click on the Record button to start recording your automated test case. On the device selection screen, select the device you wish to record on. Remember that the test case that you record will run on any device irrespective of the device that you record on.
 
 After selecting the device on which you wish to record your automation test case you will be taken to the test record page. The page consists of the device screen, a table of automation steps that get generated as actions are recorded and a header with options to enhance the test cases.
-
-
-
-
 
 There are various options available in the header to enable test creation
 
