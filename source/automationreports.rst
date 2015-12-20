@@ -1,16 +1,11 @@
 Automation Reports
 ==================
- .. image:: _static/adminserver.png
 
 Once your test run completes its run, you can view the detailed execution report in the Reports section.
 
-
-
 Reports are categorized by devices and test cases.
 
-
 Device based categorization
-
 
 Test Case based categorization
 Each test run generates three different reports
