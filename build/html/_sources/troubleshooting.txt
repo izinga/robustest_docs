@@ -13,3 +13,5 @@ There are two ways to deal with this. We either say that you will never land in 
 
    A build URL is generated uniquely for every build and user. So, this could be because the build URL you are using to run your tests belongs to another person (and s/he is the one seeing an entry in his/her live view)
 
+ * 
+
