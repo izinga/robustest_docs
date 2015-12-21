@@ -1,7 +1,7 @@
 v2.0.29
 =======
 
-Improvements & Fixes
+**Improvements & Fixes**
 
 * Bug#309 - RobustTest logo on the loading animation loads with a delay
 * Bug#807 - Automation: Remove extra steps from live view
@@ -11,7 +11,3 @@ Improvements & Fixes
 * Bug#818 - Order of buttons in header and/or project details page
 * Bug#822 - Automation: Running a test run is not working as expected.
 * Bug#801 - Run: Second run is not prevented when re-running an existing test run
-
-New Features
-
-None

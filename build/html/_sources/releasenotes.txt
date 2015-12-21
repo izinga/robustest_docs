@@ -2,6 +2,7 @@ Release Notes
 =============
 
 .. toctree::
-	:glob:
-	
-   	releases/*
+
+   	releases/2.0.29
+   	releases/2.0.28
+   	releases/2.0.27

@@ -1,0 +1,41 @@
+v2.0.16
+=======
+
+**Improvements & Fixes**
+
+*	Bug#582 - AppPage:Must require activity class.
+*	Bug#580 - Record:confirmation required before test case name is duplicate.
+*	Bug#579 - Manual: Wifi and Location features are not working in Nexus4(require Nizedha Installation.).
+*	Bug#564 - Nizedha: Rename mocking location to simulating location
+*	Bug#526 - Automation: Handle an orphan run
+*	Bug#502 - Testcase:Not saving the edited data 'Meta-Data' and "User-Data"
+*	Bug#501 - Testcase:Test-Step tab-currently No use of "Save" button.
+*	Bug#42 - Reports:"UnicodeFncodeError" occurred when running a testcase.
+*	Bug#385 - Reports:Functional Report-Error Type : "NoSuchElementException"
+*	Bug#302 - Automation: displayed validation after click on cancel button.
+*	Bug#341 - Automation: Logs not getting generated for automation test reports
+*	Bug#239 - record:after lock and reopen the system,don't allow the user to record .
+*	Bug#311 - Screen jerk when moving between Sign In and Sign Up pages
+*	Bug#187 - Test Suite: aren't generating any report. pass-0,fail-0.
+*	Bug#154 - Can not able to save the test case on japan language app (2013).
+*	Bug#623 - Testsuite:showing pass:0 and fail :0 but other test suites are running successfully.
+*	Bug#594 - Reports:better to show test case name (when downloading it's useful)
+*	Bug#398 - Manual: Tag values are not displaying in Crash logs
+*	Bug#613 - Record:when clicking on hide keyboard button it's showing error message.
+*	Bug#618 - Testcase:It's showing only 5 test cases only.
+*	Bug#621 - appboard:"version name" and "version code" is not properly aligned.
+*	Bug#622 - Manual:Nizedha is crashed when we enter only one value in location field(ex:12.7)
+*	Bug#632 - Airtel Demo - Ability to configure per user the maximum number of parallel
+*	Bug#642 - Automation: Do not auto-show text box for a text field. Show other options too.
+*	Bug#646 - Automation: Provide dual border for easy identification of objects
+*	Bug#684 - Manual Automation: Acitivity Class is a mandatory field and should not be blank
+*	Bug#683 - Manual Automation: If user deletes the Activity Class, he is not able to put it back
+*	Bug#669 - Automation: Improving the naming of steps
+*	Bug#670 - Automation: Put the status column first, then test step, then delete
+*	Bug#678 - Nizedha: Create versioning for Nizedha
+*	Bug#685 - Add line to support Xiaomi devices
+
+**New Features**
+
+* User can see all project from his/her org (no access control, any user can see other projects belongs to his/her orgs)
+* Org and project are added to apk, testcase, run, testsuite, instance and report

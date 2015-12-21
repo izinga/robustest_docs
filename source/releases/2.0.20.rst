@@ -1,0 +1,14 @@
+v2.0.20
+=======
+
+**Improvements & Fixes**
+
+* Bug#705 - Page title should read as RobusTest instead of Robustest
+* Bug#696 - Reports: For header, do not use the app name but the project name
+* Bug#695 - Avoid scroll on all pages
+
+**New Features**
+
+* Cache script
+* RabittMQ space cleaning script
+

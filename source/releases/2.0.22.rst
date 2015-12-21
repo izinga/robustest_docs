@@ -1,0 +1,24 @@
+v2.0.22
+=======
+
+**Improvements & Fixes**
+
+* Bug#723 - Recording: Allow user to redraw the object selector 
+* Bug#455 - new testsuite:when creating a testsuite with existing testsuite name it's closing new test suite window 
+* Bug#447 - Redesign the test run flow 
+* Bug#442 - Changes to New Test Suite dialog 
+* Bug#439 - Do not show App Name column in filtered views 
+* Bug#392 - Remove Create and Run and just have Create Test Suite 
+* Bug#371 - Reports:under AnalaticsReport_Analysis_network not showing any data 
+* Bug#383 - Reports:Test suite is passed but in animation it's showing "No animation found". 
+* Bug#194 - Manual: Show desc for diff types of data displayed in the graph 
+* Bug#352 - Automation: Make Step Name for Verify more intuitive 
+* Bug#307 - Manual: In Asus4 device, location is not working 
+* Bug#332 - Automation: Provide Pinch+Zoom feature in automation 
+* Bug#708 - Show selected app details on all pages 
+* Bug#709 - Test Suite: Bring the Create a Test Suite button in the same line as Search field 
+* Bug#714 - Upload app: Description is not getting saved 
+* Bug#719 - Recording: Object placeholder rectangles not displayed in some cases 
+* Bug#722 - Automation: Device name is not being displayed 
+* Bug#721 - Provide header in the thank you page 
+* Bug#720 - Put limit check based on Org
