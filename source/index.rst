@@ -15,7 +15,7 @@ Contents:
 
    introduction
    gettingstarted
-   uploadingapp
+   project
    manualtesting
    recordingtestcase
    liveview

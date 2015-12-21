@@ -59,8 +59,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'RobusTest Documentation'
-copyright = u'2015, Aishwarya Mishra, Om Narayan'
-author = u'Aishwarya Mishra, Om Narayan'
+copyright = u'2015, Izinga Software Pvt Ltd'
+author = u'Izinga Software Pvt Ltd'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -235,7 +235,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'RobusTestDocumentation.tex', u'RobusTest Documentation Documentation',
-   u'Aishwarya Mishra, Om Narayan', 'manual'),
+   u'Izinga Software Pvt Ltd', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

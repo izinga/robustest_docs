@@ -1,9 +1,9 @@
 Getting Started
 ===============
 
-Accessing RobusTest
+**Accessing RobusTest**
 
-Users can subscribe to RobusTest by signing up on at http://robustest.com
+Users can start using RobusTest by signing up at http://robustest.com
 
 Enterprise users can also have an on-premise instance of RobusTest installed. For more information on our enterprise offering, do write in to us at hello@robustest.com
 

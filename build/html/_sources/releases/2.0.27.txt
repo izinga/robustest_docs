@@ -1,9 +1,0 @@
-v2.0.27
-=======
-
-**Improvements & Fixes**
-
-* Bug#722 - Automation: Device name is not being displayed
-* Bug#109 - Record:After few clicks on "disabled" option everything is disabled(enable is required)
-* Bug#760 - #Ui - Recording: Enable All is not displayed after Disabling and then Verifying
-* Bug#334 -Automation: Provide Swipe functionality
