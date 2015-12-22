@@ -2,6 +2,7 @@ Introduction
 ============
 
  .. image:: _static/dilbert.png
+ 	:align: center
 
  `Image credit-Dilbert`_
 

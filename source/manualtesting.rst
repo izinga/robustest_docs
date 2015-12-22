@@ -12,16 +12,20 @@ Once you select the device, the device is made available to you - but only after
 The Manual test screen consists of three main parts
 
 .. image:: _static/manualtesting.png
+	:align: center
 
 *Device Screen:* This is the screen of the device that you wish to test on. You can perform various gestures like tap, swipe, scroll with the help of mouse/trackpad and keyboard. The buttons at the bottom of the screen are available for use as Android navigation buttons.
 
-*PS: We recommend using a mouse as opposed to a trackpad for a better test experience.*
+*PS: We recommend using a mouse (of the computer kind) as opposed to a trackpad for a better test experience.*
 
 *Test Configuration Section:* This section provides features to perform the tests in an enhanced environment and to make the job of testing easier. Following is a brief on each of these features
 
+.. image:: _static/manualtestheader.png
+	:align: center
+
 1. Simulate Network Condition - Use this option to simulate a specific type of network e.g. EDGE, HSPA, 3G, WiFi. Note that all the network conditions are simulated on WiFi. You can also use this feature to turn off WiFi and test how your app works without data network.
 
-PS: Your device could also have data network through carrier, in which case you can turn it off for correct results.
+	PS: Your device could also have data network through carrier, in which case you can turn it off for correct results.
 
 2. Simulate device location: Use this feature to set the location of your device by providing the latitude and longitude of the location you wish to set the device location to.
 
@@ -31,11 +35,19 @@ PS: Your device could also have data network through carrier, in which case you 
 
 5. Control Screen Size: You can also control the size of the screen using the slider widget. This is useful in case you want to look at the app in more detail and want to verify the rendering of various objects on the screen.
 
+6. Collaborate: While you are testing your application, you can easily collaborate with your team by sharing the device screen with them. You can also get the screen of the device you are testing on, on your own mobile device by scanning the QR code on the collaborate pop-up.
+
+	PS: Note that in case of enterprise installations, your RobusTest installation should be reachable from the device or computer you are using to access the device.
+
+7. Screenshot - If you wish to take screenshot of a particular screen on your app, you just need to click on the Screenshot button.
+
+8. Distraction-free mode - Use the device in this mode, in case you wish to blank out everything else on the manual test screen and view just the device.
+
 *Performance Graph:* The performance graph has three sub-sections - CPU, Memory and Network.
 
-In the CPU graph you can monitor the percentage of CPU being used in User and Kernel modes.
-In the Memory graph, you can monitor the memory being used by the app including heap allocations. The following link is a useful place to start understanding the various metrics presented in the Memory graph http://developer.android.com/tools/debugging/debugging-memory.html
-In the Network graph, you can look at the data exchanged from the device to the network - in real time as well as cumulatively.
+* In the CPU graph you can monitor the percentage of CPU being used in User and Kernel modes.
+* In the Memory graph, you can monitor the memory being used by the app including heap allocations. The following link is a useful place to start understanding the various metrics presented in the Memory graph http://developer.android.com/tools/debugging/debugging-memory.html
+* In the Network graph, you can look at the data exchanged from the device to the network - in real time as well as cumulatively.
 
 These graphs are very useful in studying the performance of the app especially with respect to any actions performed on the app.
 

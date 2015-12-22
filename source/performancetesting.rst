@@ -8,6 +8,7 @@ In such a situation, it is important that you ensure that your app runs (without
 Manual Testing
 
  .. image:: _static/performance_image.png
+ 	:align: center
 
 When you are running your manual tests for exploratory testing or executing your tests on the device, you have the option of monitoring the memory, CPU and network usage for your app. You can monitor both real time as well as cumulative network usage.
 

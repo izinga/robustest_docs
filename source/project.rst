@@ -4,6 +4,7 @@ Create Project
 Almost all activity that you do to test your mobile app will be part of a project. With RobusTest you can create a project to facilitate collaboration within the team and also to act as a logical place for all your builds, test cases, test suites, test runs and test reports.
 
  .. image:: _static/uploaddialog.png
+ 	:align: center
 
 The first step towards creating your project is, of course, to upload your app.
 This can be done by clicking on the Add New App button on the landing page.
@@ -13,6 +14,7 @@ When you upload an app, you have the choice of adding to an existing project or 
 You should also provide a build description to uniquely identify your build from other builds in your project.
 
 .. image:: _static/uploaddialog1.png
+	:align: center
 
 Apps that are part of a particular project can be accessed by everyone who is part of that project.
 Project members have the ability to test, automate and view reports for any build that is part of their project.
