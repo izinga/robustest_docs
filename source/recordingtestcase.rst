@@ -17,13 +17,10 @@ There are various options available in the header to enable test creation
 
 When you hover your mouse pointer over the app that you are testing, you will notice a rectangular placeholder overlaid on top of various objects on the screen. You can also find the name of the object that is currently selected in the header. When a particular object is highlighted using the placeholder, it is selected and you can record various actions related to that object. Upon clicking on an object, you will get recording options related to that object. Some of the popular actions are
 
-1. Tap - this records a Tap action on the object that you have selected.
-2. Click - this records a Click action on the object that you have selected.
-3. Verify - this option allows user to create a check (or an assertion as automation engineers would call them) on an object. In the verify dialog, you will notice all the attributes for the object is selected, along with their respective values. If you wish to place a check on a particular object attribute(s), just check the box next to it. When the test case runs, it will check to ensure that the value for that attribute is as expected. In case the value is not as expected, the test step fails.
-
-
-
-4. Disable - Many a times, a few objects on the screen are not selectable because of rectangular placeholders layered over them. To enable access such "hidden" objects, you need to click on the Disable button for the overlaying object.
+1. **Tap** - this records a Tap action on the object that you have selected.
+2. **Click** - this records a Click action on the object that you have selected.
+3. **Verify** - this option allows user to create a check (or an assertion as automation engineers would call them) on an object. In the verify dialog, you will notice all the attributes for the object is selected, along with their respective values. If you wish to place a check on a particular object attribute(s), just check the box next to it. When the test case runs, it will check to ensure that the value for that attribute is as expected. In case the value is not as expected, the test step fails.
+4. **Disable** - Many a times, a few objects on the screen are not selectable because of rectangular placeholders layered over them. To enable access such "hidden" objects, you need to click on the Disable button for the overlaying object.
 
 Every action that you record on the app is added as a step in the test case table.
 
@@ -45,17 +42,14 @@ Upon saving the test case, you will see your saved test case along with the actu
 3. Meta Data: The test script has been designed in a modular way to separate the app objects from the test script. This ensures that the test case can be easily updated and maintained as builds change over time.
 4. User Data: In line with the modular design, the user data too is separated out from the test script and is available in the User Data tab.
 
-The test case also offers the Re-record option.
+**Re-record a test case**
 
-Re-record is a feature used to edit a test case, again, without writing any code.
-It is also used to extend an existing test case to create a new test case.
+Re-record is a feature used to edit an existing test case without writing any code.
+It can also be used to create a new test case by extending an existing one.
 
 When a user clicks on Re-record, the device selection menu is displayed.
 Upon selection of a device, the re-record screen is shown.
 
-
-
-
 The re-record screen resembles the record screen with a few additions.
 
-Play: Clicking on the Play button executes one step at a time. When a user wants to insert a new step, s/he just needs to Play until they reach the step after which they need to record the new step. Then they can record their action as they would do while originally recording a test case. After adding new steps or deleting an existing step, the user can click on Save to update the existing test case. Alternatively, the user can also use Save As to save as a new test case.
+**Play**: Clicking on the Play button executes one step at a time. When a user wants to insert a new step, s/he just needs to Play until they reach the step after which they need to record the new step. Then they can record their action as they would do while originally recording a test case. After adding new steps or deleting an existing step, the user can click on Save to update the existing test case. Alternatively, the user can also use Save As to save as a new test case.
