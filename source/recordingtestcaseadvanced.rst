@@ -16,7 +16,7 @@ Recording a test case with OTP received as text message
 7. Once the test case recording it complete, save the test and exit the test session
 8. Go to the Test Script tab in the test details page
 9. Look for the step where you requested for an OTP - this is most probably a button click
-10. Right below the step where the request to get an OTP is made, paste the following piece of code
+10. Right below the step where the request to get an OTP is made, paste the following piece of code ::
 
 # wait for 30 seconds to get SMS. Change it according to your app
 time.sleep(30)
@@ -24,7 +24,7 @@ time.sleep(30)
 # provide the sender name as it appears on the device and a complete sample message
 otp = self.getOTPFromSMS(‘<SENDER>’, '<SAMPLE MESSAGE>')
 
-e.g. If your server sends an OTP message from **TD-SAMPLEAPP** and the message sent is "Thank you for signing up. Your OTP is 234567" then your invocation statement should look like
+e.g. If your server sends an OTP message from **TD-SAMPLEAPP** and the message sent is "Thank you for signing up. Your OTP is 234567" then your invocation statement should look like ::
 
 otp = self.getOTPFromSMS('TD-SAMPLEAPP', 'Thank you for signing up. Your OTP is 234567')
 
