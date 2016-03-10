@@ -19,10 +19,10 @@ Recording a test case with OTP received as text message
 10. Right below the step where the request to get an OTP is made, paste the following piece of code ::
 
 
-# wait for 30 seconds to get SMS. Change it according to your app
+#wait for 30 seconds to get SMS. Change it according to your app
 time.sleep(30)
-# invoke the function to get OTP from the device
-# provide the sender name as it appears on the device and a complete sample message
+#invoke the function to get OTP from the device
+#provide the sender name as it appears on the device and a complete sample message
 otp = self.getOTPFromSMS(‘<SENDER>’, '<SAMPLE MESSAGE>')
 
 e.g. If your server sends an OTP message from **TD-SAMPLEAPP** and the message sent is "Thank you for signing up. Your OTP is 234567" then your invocation statement should look like ::
