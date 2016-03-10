@@ -18,6 +18,7 @@ Contents:
    project
    manualtesting
    recordingtestcase
+   recordingtestcaseadvanced
    liveview
    runningautomation
    performancetesting
