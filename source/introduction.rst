@@ -29,3 +29,5 @@ RobusTest is designed to be a one stop platform for everyone involved in creatin
 In this documentation, we will cover all the features of RobusTest. However, some of these features may either be specific to the Enterprise version or available only to paid users of RobusTest public platform. For any questions on the documentation, feel free to write to us at support@robustest.com
 
 Happy reading!
+
+PS: In case you didn't realize the lady's name is Tina not Alice! Happy Testing.
