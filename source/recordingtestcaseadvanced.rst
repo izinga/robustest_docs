@@ -18,6 +18,7 @@ Recording a test case with OTP received as text message
 9. Look for the step where you requested for an OTP - this is most probably a button click
 10. Right below the step where the request to get an OTP is made, paste the following piece of code ::
 
+
 # wait for 30 seconds to get SMS. Change it according to your app
 time.sleep(30)
 # invoke the function to get OTP from the device
