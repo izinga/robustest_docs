@@ -4,6 +4,7 @@ Release Notes
 .. toctree::
 
 
+  releases/3.0.26
   releases/2.0.29
   releases/2.0.28
   releases/2.0.27

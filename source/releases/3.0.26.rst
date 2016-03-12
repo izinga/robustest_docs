@@ -1,0 +1,16 @@
+v3.0.26
+=======
+
+**Features**
+
+* A newer approach to recording swipe actions
+* Recording session is now not tied to single test case. Mutiple tests can be recorded in a single session.
+* Users can execute any particular step or a set of steps from the list of test steps in a recording session
+* User can point to a certain test step to begin execution
+* Support for tagging test cases added
+* Support for adding/removing other users as project administrators
+* Users can directly log a bug from manual session or test report in case their tool provides REST based APIs e.g. JIRA
+
+**Improvements & Fixes**
+
+* Test script is cleaner with functions and non test-step code moved to a parent class
