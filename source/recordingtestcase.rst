@@ -8,7 +8,7 @@ After selecting the mobile device, you will be taken to the record session page.
 
 There are various options available in the header that help in creation of your automation test
 
-.. image:: _static/recording_main.png
+.. image:: _static/recording_header.png
 
 1. Information button - Hovering over the information button gives you information on the app, its version and the device details.
 2. Back button - records an action of a back button being pressed
