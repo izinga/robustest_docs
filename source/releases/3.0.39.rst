@@ -1,0 +1,13 @@
+v3.0.39
+=======
+
+**Features**
+
+* Added ability to swipe the height of an element
+* Added support for deployment using Supervisor
+* Added ability to import test cases into a test case
+* Added ability to hold and verify an element text against an element in a previous screen
+
+**Improvements & Fixes**
+
+* Fixed issues related to navigation between various screens
