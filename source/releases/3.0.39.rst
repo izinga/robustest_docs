@@ -7,7 +7,7 @@ v3.0.39
 * Added support for deployment using Supervisor
 * Added ability to import test cases into a test case
 * Added ability to hold and verify an element text against an element in a previous screen
-* Added the ability to verify an element without its attributes
+* Added the ability to verify the XPath of an element
 
 **Improvements & Fixes**
 
