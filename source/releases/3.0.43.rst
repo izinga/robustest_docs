@@ -1,0 +1,10 @@
+v3.0.43 (30/03/2016)
+====================
+
+**Features**
+
+* Improved Hub Server with better socket mixup handling
+
+**Improvements & Fixes**
+
+* Fixes to verification logic
