@@ -1,0 +1,7 @@
+v3.0.61 (13/04/2016)
+====================
+
+**Improvements & Fixes**
+
+* Improved validation options
+* Bug fixes for improved failure reporting

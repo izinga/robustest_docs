@@ -3,6 +3,7 @@ Release Notes
 
 .. toctree::
   
+  releases/3.0.61
   releases/3.0.56
   releases/3.0.45
   releases/3.0.43
