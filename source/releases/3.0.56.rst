@@ -1,0 +1,8 @@
+v3.0.56 (06/04/2016)
+====================
+
+**Improvements & Fixes**
+
+* Added time taken for element to be found in Test Report
+* Marking the element on screen with an identifiable placeholder in Test Report
+* Fixed socket timeout issues

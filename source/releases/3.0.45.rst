@@ -1,0 +1,8 @@
+v3.0.45 (03/04/2016)
+====================
+
+**Improvements & Fixes**
+
+* Fixes to startup scripts
+* Improvements to XPath generation logic
+* Fixes to user input not displaying in the User Data section
