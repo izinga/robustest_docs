@@ -16,7 +16,7 @@ http://192.168.1.1:8081/build/581b074e7ec1653a30d1f438/581ae4a37ec165084ea9cdc3/
 
 2. device - set this value to the name of the device that you wish to run on. The list of names of devices available for use can be obtained from the device dialog available when you click on Record button on the project page. You can also get the list of available devices using the device list API
 
-http://192.168.1.1.:3142/devices
+http://192.168.1.1:3142/devices
 
 The response of the above API looks like below
 
@@ -26,7 +26,7 @@ From the response, one can find out things like availability of device for Robus
 
 3. Change the Appium URL to point to the RobusTest Hub. If you are running your tests on a local instance of Appium using devices connected to your system, the Appium URL will look like
 
-http://localhost:4723/wd/hub.
+http://localhost:4723/wd/hub
 
 Change this value to point to the RobusTest Hub.
 
