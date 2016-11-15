@@ -20,5 +20,31 @@ There are two ways to deal with this. We either say that you will never land in 
    telnet <RobusTest Installation Address> <port#>
 
    In case the connection is not successful, it is probable that the reason for not being able to view the test steps in Live View is the stopping of information by the firewall.
+   
+   * I am unable to access RobusTest
+     Make sure your computer is connected to the network.
+     Check if the server is running and reachable by executing a ping command on the RobusTest server
+     
+     ping <RobusTest server IP address>
 
-   To find out the installation address and port#, please contact your RobusTest administrator.
+     If the ping command is unsuccessful and you are unable to get a response from the server, it either means that the server is
+     unreachable or that the server is down. Please check on this with your IT team
+     If the ping command is successful and you are able to reach the server, then we check if the RobusTest server is running 
+     successfully.
+     
+     Visit the RobusTest processes page and ensure that all processes are running as expected
+     The URL for RobusTest processes page looks as below
+     
+     http://<robustest server url>:9001
+
+     Make sure all the processes are in running state. 
+     In case the URL above is not reachable, it means the RobusTest server is not running.
+     Start the RobusTest application by running the following command on the system. You will need to login to the RobusTest server 
+     using putty or similar tool.
+
+      # cd /opt/code/RobusTest
+      # screen -S FrontEnd
+      # sudo su (enter the password when prompted)
+      # ./StartServer.sh
+
+   To find out the IP addresses of the deployment servers other such details, please contact your RobusTest administrator.
