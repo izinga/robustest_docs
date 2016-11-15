@@ -22,7 +22,7 @@ The response of the above API looks like below
 
 {"available": [{"available": "Yes", "supportHub": "Yes", "gmsversion": "5.0.2", "name": "SM-G530H", "supportManual": "Yes", "supportAutomation": "Yes", "adb_id": "404b6569", "reservedForProject": [], "os": "android"}], "busy": [], "totalOffline": 0, "offline": [], "total": 1, "totalBusy": 0, "totalAvailable": 1}
 
-From the response, one can find out things like availability of device for RobusTest Hub, device name, Android version, etc., This response can be used to filter out devices that can be used to run Appium tests on the Hub.
+From the response, one can find out details like availability of device for RobusTest Hub, device name, Android version, etc., This response can be used to filter out devices that can be used to run Appium tests on the Hub.
 
 3. Change the Appium URL to point to the RobusTest Hub. If you are running your tests on a local instance of Appium using devices connected to your system, the Appium URL will look like
 
