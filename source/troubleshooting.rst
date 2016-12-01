@@ -11,15 +11,15 @@ There are two ways to deal with this. We either say that you will never land in 
 
 Following are some issues that you may come across when using RobusTest. In case you do not find the issue you are facing on this page, log a support ticket by clicking `here <http://robustest.freshdesk.com>`_
 
- * I tried to click on Manual or Automation buttons but I get a message "Unable to reach node server"
+ **I tried to click on Manual or Automation buttons but I get a message Unable to reach node server**
 
   This may happen because your computer is accessing RobusTest through a proxy server and the server is blocking WebSocket protocol
 
- * I ran my automation tests on the RobusTest Hub but I do not see anything in Live View
+I ran my automation tests on the RobusTest Hub but I do not see anything in Live View
 
    A build URL is generated uniquely for every build and user. So, this could be because the build URL you are using to run your tests belongs to another person (and s/he is the one seeing an entry in his/her live view)
 
- * I am unable to see the test steps in the Live View for my device
+I am unable to see the test steps in the Live View for my device
 
    In case you are using RobusTest from behind a firewall, it is possible that the information related to test steps execution is being stopped. One check for this would be to run the following command
 
@@ -27,7 +27,7 @@ Following are some issues that you may come across when using RobusTest. In case
 
    In case the connection is not successful, it is probable that the reason for not being able to view the test steps in Live View is the stopping of information by the firewall.
    
-   * I am unable to access RobusTest
+I am unable to access RobusTest
      Make sure your computer is connected to the network.
      Check if the server is running and reachable by executing a ping command on the RobusTest server
      
