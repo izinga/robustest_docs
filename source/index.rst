@@ -23,6 +23,7 @@ Contents:
    runningautomation
    performancetesting
    automationreports
+   scheduling
    robustesthub
    troubleshooting
    releasenotes
